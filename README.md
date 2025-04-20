@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @desankha88
 - 👀 I’m interested in keeping my coding skills and programming knowledge up to date and also develop them....
-- 🌱 I’m currently learning Python, Matilion , Scala.
+- 🌱 I’m currently learning Python, AIML & MLOps
 - 💞️ I’m looking to collaborate on solving real world problems for small businesses and individuals.
 - 📫 How to reach me ... 
 
